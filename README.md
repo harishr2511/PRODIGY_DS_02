@@ -20,6 +20,8 @@ The dataset used in this analysis contains the following columns:
 - **Cabin**: Cabin number
 - **Embarked**: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
+link to the datset : https://www.kaggle.com/c/titanic/data
+
 ## Key Findings
 
 1. **Gender and Survival**: A higher percentage of females survived compared to males.
